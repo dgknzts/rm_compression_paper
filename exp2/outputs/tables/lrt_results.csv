@@ -1,0 +1,6 @@
+Null,Alternative,df,group_chi2,group_df,group_p,n_sig,n_total
+Null,Partial Pooling,1,431.44,20,5.986384672887058e-79,14,20
+Perfect Pooling,Compression + Pooling,1,3549.27,20,0,19,20
+Partial Pooling,Compression + Partial Pooling,1,1298.2,20,7.193784123560361e-263,16,20
+Compression + Pooling,Compression + Partial Pooling,1,906.58,20,3.1189905210385135e-179,19,20
+Compression + Partial Pooling,Linear Compression + Partial Pooling,1,600.25,20,2.5558553671581515e-114,15,20

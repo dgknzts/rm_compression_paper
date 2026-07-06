@@ -1,0 +1,7 @@
+Model,Count
+Null,1
+Perfect Pooling,0
+Partial Pooling,1
+Compression + Pooling,0
+Compression + Partial Pooling,3
+Linear Compression + Partial Pooling,15

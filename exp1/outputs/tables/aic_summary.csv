@@ -1,0 +1,7 @@
+Model,k,mean_AIC,mean_RMSE
+Linear Compression + Partial Pooling,3,-1085.586,0.077
+Compression + Partial Pooling,2,-1025.972,0.082
+Compression + Pooling,1,-914.861,0.092
+Partial Pooling,1,-891.341,0.093
+Null,0,-841.932,0.099
+Perfect Pooling,0,-549.106,0.142

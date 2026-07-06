@@ -1,0 +1,34 @@
+# Raw data lives on OSF, not in this repository
+exp1/data/raw/*.csv
+exp2/data/raw/*.csv
+
+# R session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.synctex.gz
+
+# Local logs
+run_all_log.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated figures (reproduce via run_all.R)
+exp1/outputs/figures/
+exp2/outputs/figures/
+shared/outputs/
+
+# R binary outputs (regenerate via run_all.R)
+*.rds
+*.RData
+
+# Generated LaTeX (reproduce via supplementary/generate_supplementary_tables.R)
+supplementary/*.tex
